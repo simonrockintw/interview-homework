@@ -20,7 +20,7 @@
 
 ### 網站說明
 - 一般使用者瀏覽頁面 (可點擊新聞title進入內頁) http://[host]/
-- 內部管理者頁面 http://news.test/backend/news
+- 內部管理者頁面 http://[host]/backend/news
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
