@@ -43,7 +43,7 @@
                     <div class="col-md-6">
                         <div class="row mb-3">
                             <div class="input-group">
-                                <label class="col-sm-2 col-form-label text-sm-right">{{ __('app.CreatedAt') }}</label>
+                                <label class="col-sm-2 col-form-label text-sm-right">{{ __('app.PublishedAt') }}</label>
                                 <div class="col-sm-7 input-group">
                                     <div class="input-group-prepend">
                                     <span class="input-group-text">
